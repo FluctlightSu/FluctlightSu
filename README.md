@@ -17,9 +17,9 @@
 I’m constantly learning and building new projects to improve my skills. Feel free to check out my work and follow my journey as I grow in the tech world!</h3>**
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new event platform using React and Node.js**
-- 🌱 I'm currently learning: **📚 Blockchain**
-- 💬 Ask me about: **💡 JavaScript, Vue, Node.js, MySQL and RESTful APIs**
+- 💼 I'm currently working on: **💻 Developing a new event platform using Vue and SpringBoot**
+- 🌱 I'm currently learning: **📚 Blockchain|Solidity|Smart Contracts**
+- 💬 Other: **💡 JavaScript, Vue, Node.js, MySQL and RESTful APIs**
 
  **<h3 align="center">Skills</h3>**
 
