@@ -10,7 +10,15 @@
   </ul>
 </div>
 
- **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+ **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization. Hi there! 👋 I'm a web developer passionate about both frontend and backend technologies.
+
+🔹 Frontend: I'm working with Vue.js, HTML, CSS, and JavaScript to create user-friendly, responsive web applications.
+
+🔹 Backend: I’ve been learning Spring Boot and Node.js to build efficient and scalable server-side applications.
+
+🔹 Web3: I'm diving into blockchain development, exploring the world of decentralized applications (DApps) and Web3 technologies.
+
+I’m constantly learning and building new projects to improve my skills. Feel free to check out my work and follow my journey as I grow in the tech world!</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
