@@ -11,10 +11,10 @@
 </div>
 
  **<h3 align="left">👋 全栈开发的探索者 | Web3 的构建者<br>
-🔹 Frontend: I'm working with Vue.js, HTML, CSS, and JavaScript to create user-friendly, responsive web applications.<br>
-🔹 Backend: I’ve been learning Spring Boot and Node.js to build efficient and scalable server-side applications.<br>
-🔹 Web3: I'm diving into blockchain development, exploring the world of decentralized applications (DApps) and Web3 technologies.<br>
-I’m constantly learning and building new projects to improve my skills. Feel free to check out my work and follow my journey as I grow in the tech world!</h3>**
+🔹 前端: 我正在使用 Vue.js、HTML、CSS 和 JavaScript，致力于打造用户友好且响应迅速的 Web 应用程序<br>
+🔹 后端: 我正在学习 Spring Boot 和 Node.js，用于构建高效且可扩展的服务器端应用<br>
+🔹 Web3:  我正在深入区块链开发领域，积极探索去中心化应用（DApps）和 Web3 技术的无限可能<br>
+我始终保持着持续学习的状态，并通过构建新项目来不断磨练我的技能。欢迎随时查看我的作品，并关注我在科技世界的成长旅程！</h3>**
 **<h3 align="left">Rapid Fire</h3>**
 
 - 🌱 我正在学习: **📚 WEB3开发和WEB2开发的内容，例如：Vue、Solidity、React等内容**
@@ -23,18 +23,3 @@ I’m constantly learning and building new projects to improve my skills. Feel f
  **<h3 align="center">技能</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;"><img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="32" alt="Vue" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" height="32" alt="Spring" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"></div>
-
- **<h3 align="left">GitHub Stats</h3>**
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FluctlightSu&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=FluctlightSu&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-</p>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=FluctlightSu&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
-
- **<h3 align="left">Support Me</h3>**
-
-<p align="left"><a href="https://paypal.me/PandaSJP" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a></p>
